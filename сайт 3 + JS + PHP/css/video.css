@@ -1,0 +1,15 @@
+   
+body{
+    margin:0;
+    font-family: Roboto;
+}
+
+.video{
+		width: 1000px;
+		height: 500px;
+	}
+
+.container{
+		width: 1050px;
+		margin: auto;
+	}
